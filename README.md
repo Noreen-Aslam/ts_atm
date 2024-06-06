@@ -6,5 +6,7 @@ This project is a simple command-line interface (CLI) implementation of an Autom
 
 Features:
 . User authentication with a PIN code
- .Check account balance
- .Withdraw money from the account
+
+. Check account balance
+
+. Withdraw money from the account
